@@ -115,7 +115,7 @@ const Profile = () => {
               ml: 1,
             }}
           >
-            Julia
+            Waseem
           </Typography>
           <IconChevronDown width="20" height="20" />
         </Box>
