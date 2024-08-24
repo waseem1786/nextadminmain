@@ -15,7 +15,7 @@ const Menuitems = [
     id: uniqueId(),
     title: "Products",
     icon: IconCircleDot,
-    href: "/ui-components/buttons",
+    href: "/ui-components/product_list",
   },
   {
     id: uniqueId(),
